@@ -1,4 +1,4 @@
-# COP6526_Homework1
+# COP6526 Homework 1
 
 Please implement a Map/Reduce program on PySpark. 
 
