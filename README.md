@@ -14,12 +14,14 @@ With the word "I",
  - "seen" occurs once.
  - "little" occurs once.
   and so on.
+
 With the word had,
 
  - "I" occurs once.
  - "had" occurs once. (not zero times!)
   and so on.
+
 You must follow these guidelines to obtain the correct result.
 
-Convert every string into lower-case.
-Remove all punctuation, i.e., any character other than a to z and space. It will be helpful to use a regular expression to replace them with empty strings. Of course, this will result in some non-sense situations (im, youre, and etc.), but you do not have to worry about this.
+ - Convert every string into lower-case.
+ - Remove all punctuation, i.e., any character other than a to z and space. It will be helpful to use a regular expression to replace them with empty strings. Of course, this will result in some non-sense situations (im, youre, and etc.), but you do not have to worry about this.
