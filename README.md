@@ -13,13 +13,11 @@ With the word "I",
  - "had" occurs twice.
  - "seen" occurs once.
  - "little" occurs once.
-  and so on.
 
 With the word had,
 
  - "I" occurs once.
  - "had" occurs once. (not zero times!)
-  and so on.
 
 You must follow these guidelines to obtain the correct result.
 
